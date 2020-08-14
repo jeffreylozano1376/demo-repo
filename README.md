@@ -17,3 +17,14 @@
 	```git remote -v```
 * Shows the changes made to a file (not yet commited)<br/>
 	```git status```
+
+## GIT BRANCHING
+* create, list, rename, and delete branches<br/>
+    ```git branch```
+* navigate between branches created by ```git branch```<br/>
+    ```git checkout```
+* create a new branch<br/>
+    ```git checkout -b <name>```
+
+
+    sdafsadfdsafasf
