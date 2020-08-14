@@ -25,6 +25,17 @@
     ```git checkout```
 * create a new branch<br/>
     ```git checkout -b <name>```
+* delete branch<br/>
+    ```git branch -d <name>```
 
+## UNDOING IN GIT
+* Undo staged changes</br>
+    ```git reset```
+    ```git reset <file name> ```
+* Undo recent commited changes</br>
+    ```git reset HEAD~1```
+* Shows commit History in reverse chronological order</br>
+    ```git log```
+* Undo everything within the `git log` History
+    ```git reset --hard```
 
-    sdafsadfdsafasf
