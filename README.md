@@ -9,7 +9,7 @@
 	```git commit -m "<title>" -m "<description>"```
 5. Add remote location<br/>
 	```git remote add origin <remote repo URL>```
-6. Push/upload changes to the remote repository(Github)<br/>
+6. Push/upload changes to the remote Github<br/>
 	```git push -u origin master```
 
 ## CHECK COMMANDS
@@ -25,6 +25,9 @@
     ```git checkout```
 * create a new branch<br/>
     ```git checkout -b <name>```
-
-
-    sdafsadfdsafasf
+* shows change comparison between 2 versions of code<br/>
+    ```git diff```
+* merge branches locally<br/>
+    ```git merge```
+* Push & create a new branch to Github</br>
+```git push --set-upstream origin feature-readme-instructions```
