@@ -17,7 +17,7 @@
 	```git remote -v```
 * Shows the changes made to a file (not yet commited)<br/>
 	```git status```
-* Switch to another remote git repository
+* Switch to another remote git repository<br/>
 	```git remote set-url origin```
 
 ## GIT BRANCHING
