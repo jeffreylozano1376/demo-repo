@@ -29,6 +29,8 @@
     ```git checkout -b <name>```
 * delete branch<br/>
     ```git branch -d <name>```
+* merge branches<br/>
+    ```git merge <name>```
 
 ## UNDOING IN GIT
 * Undo staged changes</br>
