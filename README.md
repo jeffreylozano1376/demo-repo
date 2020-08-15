@@ -17,6 +17,8 @@
 	```git remote -v```
 * Shows the changes made to a file (not yet commited)<br/>
 	```git status```
+* Switch to another remote git repository
+	```git remote set-url origin```
 
 ## GIT BRANCHING
 * create, list, rename, and delete branches<br/>
@@ -38,4 +40,6 @@
     ```git log```
 * Undo everything within the `git log` History
     ```git reset --hard```
+ 
+ 
 
